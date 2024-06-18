@@ -1,2 +1,2 @@
 # Python-Programming
-This Repo will help us to understand what PYTHON is in Easiest Manner
+This Repo will help you to understand what PYTHON is in Easiest Manner
